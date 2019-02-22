@@ -11,5 +11,5 @@ spec:
       paths:
       - path: /
         backend:
-          serviceName: front-end
+          serviceName: vue
           servicePort: 80
